@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/924bca1f-a9b2-46b9-8d1d-2fe4c2232ce0" alt="Reis GANO Logo" width="150" height="150">
+  <img src="https://github.com/user-attachments/assets/924bca1f-a9b2-46b9-8d1d-2fe4c2232ce0" alt="Reis GANO Logo" width="400" height="150">
   <h3 align="center">🎓 4.00 </h3>
 
   <p align="center">
