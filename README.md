@@ -69,8 +69,6 @@ Karmaşık Excel tabloları veya formüllerle uğraşmak yerine, sezgisel ve mod
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/6d95c811-6aa3-4310-9a5d-69492f78caed" alt="Ana Ekran" width="250"> | <img src="https://github.com/user-attachments/assets/fe9953fe-bb34-476f-99cf-4174209ad2a3" alt="Sonuç" width="250"> | <img src="https://github.com/user-attachments/assets/473a3cd2-651e-4d9d-a4aa-898c06232e98" alt="Dark Mode" width="250"> |
 
-*(Buraya projenizin gerçek ekran görüntülerini ekleyebilirsiniz.)*
-
 ---
 
 ## 💻 Kullanılan Teknolojiler
