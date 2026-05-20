@@ -200,14 +200,3 @@ Proje Bağlantısı: https://github.com/NurullahHarunKose/4.00
   Yapılan işi beğendiyseniz repoya bir ⭐ bırakmayı unutmayın!
 </p>
 
-
-<img width="1080" height="2340" alt="Screenshot_20260520_215246" src="https://github.com/user-attachments/assets/6d95c811-6aa3-4310-9a5d-69492f78caed" />
-
-<img width="1080" height="2340" alt="Screenshot_20260520_215229" src="https://github.com/user-attachments/assets/924bca1f-a9b2-46b9-8d1d-2fe4c2232ce0" />
-
-<img width="1080" height="2340" alt="Screenshot_20260520_215224" src="https://github.com/user-attachments/assets/473a3cd2-651e-4d9d-a4aa-898c06232e98" />
-
-<img width="1080" height="2340" alt="Screenshot_20260520_215224" src="https://github.com/user-attachments/assets/fe9953fe-bb34-476f-99cf-4174209ad2a3" />
-
-<img width="1080" height="2340" alt="Screenshot_20260520_215240" src="https://github.com/user-attachments/assets/727d3491-1f16-4e02-bbe1-3a5beeacdfa7" />
-
