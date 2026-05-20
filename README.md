@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="<img width="1080" height="2340" alt="Screenshot_20260520_215229" src="https://github.com/user-attachments/assets/73f08f8e-fe3c-4d63-bd6a-8b78c1f3c3ce" />
-Reis GANO Logo" width="150" height="150">
+  <img src="https://via.placeholder.com/150" alt="<img width="1080" height="2340" alt="Screenshot_20260520_215229" src="https://github.com/user-attachments/assets/73f08f8e-fe3c-4d63-bd6a-8b78c1f3c3ce" />" width="150" height="150">
   <h3 align="center">🎓 4.00 </h3>
 
   <p align="center">
