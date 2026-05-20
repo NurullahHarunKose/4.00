@@ -67,7 +67,7 @@ Karmaşık Excel tabloları veya formüllerle uğraşmak yerine, sezgisel ve mod
 
 | Ana Ekran | Hesaplama Sonucu | Ayarlar / Karanlık Mod |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/6d95c811-6aa3-4310-9a5d-69492f78caed" alt="Ana Ekran" width="250"> | <img src="https://github.com/user-attachments/assets/fe9953fe-bb34-476f-99cf-4174209ad2a3" alt="Sonuç" width="250"> | <img src="https://github.com/user-attachments/assets/473a3cd2-651e-4d9d-a4aa-898c06232e98" alt="Dark Mode" width="250"> |
+| <img src="https://github.com/user-attachments/assets/6d95c811-6aa3-4310-9a5d-69492f78caed" alt="Ana Ekran" width="250"> | <img src="https://github.com/user-attachments/assets/fe9953fe-bb34-476f-99cf-4174209ad2a3" alt="Sonuç" width="250"> | <img src="https://github.com/user-attachments/assets/727d3491-1f16-4e02-bbe1-3a5beeacdfa7" alt="Dark Mode" width="250"> |
 
 ---
 
@@ -208,4 +208,6 @@ Proje Bağlantısı: https://github.com/NurullahHarunKose/4.00
 <img width="1080" height="2340" alt="Screenshot_20260520_215224" src="https://github.com/user-attachments/assets/473a3cd2-651e-4d9d-a4aa-898c06232e98" />
 
 <img width="1080" height="2340" alt="Screenshot_20260520_215224" src="https://github.com/user-attachments/assets/fe9953fe-bb34-476f-99cf-4174209ad2a3" />
+
+<img width="1080" height="2340" alt="Screenshot_20260520_215240" src="https://github.com/user-attachments/assets/727d3491-1f16-4e02-bbe1-3a5beeacdfa7" />
 
