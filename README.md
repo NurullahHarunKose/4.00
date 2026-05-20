@@ -20,10 +20,10 @@
 
 <!-- Badges -->
 <div align="center">
-  <a href="https://github.com/NurullahHarunKose/4.00/network/members"><img src="https://img.shields.io/github/forks/kullaniciadi/reis-gano?color=blue&style=flat-square" alt="Forks"></a>
-  <a href="https://github.com/NurullahHarunKose/4.00/stargazers"><img src="https://img.shields.io/github/stars/kullaniciadi/reis-gano?color=blue&style=flat-square" alt="Stars"></a>
-  <a href="https://github.com/NurullahHarunKose/4.00/issues"><img src="https://img.shields.io/github/issues/kullaniciadi/reis-gano?color=blue&style=flat-square" alt="Issues"></a>
-  <a href="https://github.com/NurullahHarunKose/4.00/blob/main/LICENSE"><img src="https://img.shields.io/github/license/kullaniciadi/reis-gano?color=blue&style=flat-square" alt="License"></a>
+  <a href="https://github.com/NurullahHarunKose/4.00/network/members"><img src="https://img.shields.io/github/forks/NurullahHarunKose/4.00?color=blue&style=flat-square" alt="Forks"></a>
+  <a href="https://github.com/NurullahHarunKose/4.00/stargazers"><img src="https://img.shields.io/github/stars/NurullahHarunKose/4.00?color=blue&style=flat-square" alt="Stars"></a>
+  <a href="https://github.com/NurullahHarunKose/4.00/issues"><img src="https://img.shields.io/github/issues/NurullahHarunKose/4.00?color=blue&style=flat-square" alt="Issues"></a>
+  <a href="https://github.com/NurullahHarunKose/4.00/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NurullahHarunKose/4.00?color=blue&style=flat-square" alt="License"></a>
 </div>
 
 ## 📑 İçindekiler
