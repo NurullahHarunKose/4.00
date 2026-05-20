@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="<img width="1080" height="2340" alt="Screenshot_20260520_215229" src="https://github.com/user-attachments/assets/b2bfee3d-a974-4be8-87b3-5246fe8236bd" />
-" alt="Reis GANO Logo" width="150" height="150">
+  <img src="[https://via.placeholder.com/150](https://github.com/user-attachments/assets/924bca1f-a9b2-46b9-8d1d-2fe4c2232ce0)" alt="Reis GANO Logo" width="150" height="150">
   <h3 align="center">🎓 4.00 </h3>
 
   <p align="center">
@@ -202,3 +201,13 @@ Proje Bağlantısı: https://github.com/NurullahHarunKose/4.00
 <p align="center">
   Yapılan işi beğendiyseniz repoya bir ⭐ bırakmayı unutmayın!
 </p>
+
+
+<img width="1080" height="2340" alt="Screenshot_20260520_215246" src="https://github.com/user-attachments/assets/6d95c811-6aa3-4310-9a5d-69492f78caed" />
+
+<img width="1080" height="2340" alt="Screenshot_20260520_215229" src="https://github.com/user-attachments/assets/924bca1f-a9b2-46b9-8d1d-2fe4c2232ce0" />
+
+<img width="1080" height="2340" alt="Screenshot_20260520_215224" src="https://github.com/user-attachments/assets/473a3cd2-651e-4d9d-a4aa-898c06232e98" />
+
+<img width="1080" height="2340" alt="Screenshot_20260520_215224" src="https://github.com/user-attachments/assets/fe9953fe-bb34-476f-99cf-4174209ad2a3" />
+
